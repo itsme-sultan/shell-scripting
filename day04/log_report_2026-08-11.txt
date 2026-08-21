@@ -1,0 +1,17 @@
+Date of analysis : 2026-08-11
+
+Log file name : /home/sultan/sample_log.log
+
+Total line proccessed : 22 /home/sultan/sample_log.log 
+
+----Error/Failed count----
+
+Total error count : 5 .
+
+-----Top 5 most common error------
+      1 [ERROR] [ERROR] [ERROR] [DATABASE] [EVT-203] Connection pool exhausted. Maximum 100 connections reached.
+      1 [ERROR] [ERROR] [ERROR] [APP_SERVER] [EVT-302] Internal Server Error: Could not acquire database connection lease.
+      1 [CRITICAL] [CRITICAL] [CRITICAL] [API_GATEWAY] [EVT-503] GET /api/v1/checkout - Status 500 Internal Server Error.
+
+---Critical Events---
+17:2026-06-26 11:20:20 [CRITICAL] [API_GATEWAY] [EVT-503] GET /api/v1/checkout - Status 500 Internal Server Error.
